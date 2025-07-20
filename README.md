@@ -8,6 +8,7 @@ This project focuses on improving the design of a mechanical joint to achieve gr
 Onshape – for 3D CAD modeling and design iteration
 
 ## Photo
---
+
+<img width="300" height="249" alt="task3" src="https://github.com/user-attachments/assets/a890abec-7ae7-4a8d-8daa-2df5a77fcdd1" />
 
 --
